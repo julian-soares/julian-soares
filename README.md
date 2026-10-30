@@ -30,7 +30,7 @@ Aqui você encontrará meus projetos desenvolvidos durante minha jornada de apre
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [Meu LinkedIn](www.linkedin.com/in/juliansoares)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/juliansoares/)
 - 🐙 GitHub: [Meus repositórios](https://github.com/julian-soares)
 
 ---
